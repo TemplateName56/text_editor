@@ -1,0 +1,79 @@
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\Text Editor.exe
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\Text Editor.deps.json
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\Text Editor.runtimeconfig.json
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\Text Editor.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\ref\Text Editor.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\Text Editor.pdb
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text Editor.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text_Editor.CloseMessageForm.resources
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text_Editor.indentSettingForm.resources
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text_Editor.MainForm.resources
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text_Editor.Properties.Resources.resources
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text Editor.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text Editor.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text Editor.AssemblyInfo.cs
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text Editor.dll
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\ref\Text Editor.dll
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text Editor.pdb
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text Editor.genruntimeconfig.cache
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\admin\source\repos\Text Editor\obj\Debug\net6.0-windows\Text Editor.csproj.CopyComplete
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.extension.mas.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.mas.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.mas.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.mas.so
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\osx-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\admin\source\repos\Text Editor\bin\Debug\net6.0-windows\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.mas.dll

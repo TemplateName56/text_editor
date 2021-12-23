@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhFjKI92Lw2FYyszlQwmneyq4lzGom+B3QfXl4EdjSKogeGx8OS9lYrkvjl2nO6LEAkZ2g1v8fjHcYTvAD6uog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Text Editor\\Text Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.19.0\\microsoft.cognitiveservices.speech.1.19.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
